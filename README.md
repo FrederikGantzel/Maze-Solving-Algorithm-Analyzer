@@ -1,5 +1,5 @@
 # Maze-Solving-Algorithm-Analyzer
-The program I wrote for my 4th semester project at Roskilde University "Evaluating the Efficiency of Maze-Solving Algorithms"
+The program we wrote for our 4th semester project at Roskilde University "Evaluating the Efficiency of Maze-Solving Algorithms"
 
 Link to the project paper: https://rucforsk.ruc.dk/ws/files/64897417/Algorithms_for_maze_solving.pdf
 
