@@ -1,0 +1,1 @@
+The results for the program should go in this folder, if the user chooses to save the results
