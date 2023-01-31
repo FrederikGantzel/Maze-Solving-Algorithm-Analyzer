@@ -8,11 +8,7 @@ Authors: Frederik Gantzel, Poul Thrane, Max Thrane
 ## Installation
 The project is made with IntelliJ IDEA, and thus it is easily run using this application. I'm sure there is some way to run it from the command line, but I have not been able to figure it out. Additionally, the project also uses JavaFX for the user interface. JavaFX comes bundled with Java 10 or below, but requires a seperate download and installation for Java versions above 10. I haven't been able to make the program work with a seperate installation of JavaFX, and thus I believe it is easiest to simply download and use a Java version below 10 (I used Java 8).
 
-To run the program, first download the "Maze_Analyzer" folder. Open the "Controller" folder inside the Maze_Analyzer folder with IntelliJ IDEA. It should look something like this:
-
-![image](https://user-images.githubusercontent.com/91853323/215625771-4e1c335a-22bf-499f-a402-88cc02063422.png)
-
-If you are already using Java 8, you should be able to press "run" to run the program right away. The GUI should look like this:
+To run the program, first download the "Maze_Analyzer" folder. Open the "Controller" folder inside the Maze_Analyzer folder with IntelliJ IDEA. If you are already using Java 8, you should be able to press "run" to run the program right away. The GUI should look like this:
 
 ![image](https://user-images.githubusercontent.com/91853323/215628157-f0215b99-f667-4c44-a870-6cbcf2bb30eb.png)
 
